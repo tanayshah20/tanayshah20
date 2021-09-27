@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tanay Shah (@tanayshah20)
+- 👀 I’m interested in learning new ways to code and use it effectively
+- 🌱 I’m currently learning C, Javascript, HTML5 and CSS
+- 💞️ I’m looking to collaborate on projects with other people 
+- 📫 Reach me on linkedin www.linkedin.com/in/tanay-shah-2001
